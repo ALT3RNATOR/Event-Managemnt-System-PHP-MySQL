@@ -87,7 +87,7 @@ https://www.apachefriends.org/
 ### 2. Clone Repository
 
 ```bash
-git clone https://github.com/ALT3RNATOR/Event-Managemnt-System-PHP-MySQL-
+git clone https://github.com/ALT3RNATOR/Event-Managemnt-System-PHP-MySQL-.git
 ```
 
 ---
