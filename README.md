@@ -1,4 +1,4 @@
-# 🎉 Event Management System (PHP + MySQL)
+# Event Management System (PHP + MySQL)
 
 A complete web-based **Event Management System** built using **PHP, MySQL, HTML, CSS, and XAMPP**.
 
