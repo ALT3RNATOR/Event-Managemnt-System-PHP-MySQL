@@ -12,7 +12,6 @@ This system allows users to:
 Vendors and admins can manage operations efficiently.
 
 ---
-fhd
 ## 🚀 Features
 
 ### 👤 User Module
